@@ -1,0 +1,36 @@
+Guide for Intern Students: Investigating Language Models 📚🔍
+
+Objective: Study and analyze the properties and capabilities of language models using their tokens and sentences involving them. This will allow for a better understanding of how models process information and generate responses. 🎯
+
+Introduction to language models 🧠
+a. Basics of language models (GPT, BERT, and others) 📖
+b. How transformers and attention mechanisms work ⚙️
+c. Token dictionary and their use in models 🔤
+
+Preparation for research 📝
+a. Choosing a language model for investigation (e.g., mGPT) 🔍
+b. Gaining access to the model and its weights 📥
+c. Familiarization with information extraction techniques from models (kMeans, ANN, NGT, etc.) 🛠️
+
+Token investigation 🔎
+a. Studying tokens closest to the centroid 📍
+b. Determining the token's language and meaning 🌐
+c. Analyzing the context of the token's usage in the model 📚
+d. Identifying possible relationships between tokens and their meanings 🧩
+e. Determining if the model has knowledge about this token 🧐
+
+Text generation experiments 📄
+a. Querying the model using tokens ❓
+b. Evaluating the quality of the model's responses ✅
+c. Checking for biases or errors in responses ⚠️
+d. Attempting to prompt the model to generate text with specific keywords 🎯
+
+Results analysis 📊
+a. Systematizing the collected data 📈
+b. Identifying general patterns and trends 🔍
+c. Detecting potential issues and limitations of language models ❗
+d. Forming conclusions and recommendations for further research or model usage 💡
+
+Report preparation 📑
+a. Presenting research results in the form of text or a presentation 📄
+b. Discussing results with supervisor 👥
